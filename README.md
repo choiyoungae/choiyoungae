@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 ![Eclipse IDE](https://img.shields.io/badge/-EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE)
 
 ## This is my Web Portfolio
-[![Netlify](https://img.shields.io/netlify/6ce26fcc-253b-4a12-bfd1-ad0f15624a8d?color=%2300C7B7&logo=Netlify&style=flat-square)](https://youngae-portfolio.netlify.app/)
+[![Netlify](https://img.shields.io/badge/netlify-success-success.svg)](https://youngae-portfolio.netlify.app/)
