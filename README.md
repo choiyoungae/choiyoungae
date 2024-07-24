@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Eclipse IDE](https://img.shields.io/badge/-EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE)
 
-## This is my Web Portfolio
-[![Netlify](https://img.shields.io/badge/netlify-success-success.svg)](https://youngae-portfolio.netlify.app/)
+<!-- ## This is my Web Portfolio
+ [![Netlify](https://img.shields.io/badge/netlify-success-success.svg)](https://youngae-portfolio.netlify.app/) -->
