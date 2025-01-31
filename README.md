@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Eclipse IDE](https://img.shields.io/badge/-EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE)
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white">
 
 <!-- ## This is my Web Portfolio
  [![Netlify](https://img.shields.io/badge/netlify-success-success.svg)](https://youngae-portfolio.netlify.app/) -->
